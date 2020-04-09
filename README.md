@@ -1,6 +1,7 @@
 # ArduinoMoonphase
 I got this idea from moonphase watches.
-This repository contains Arduino code for flashing 7 LEDs at random intervals and spinning the moonphase disk.
+
+This repository contains Arduino code for flashing 7 LEDs at random intervals and spinning the moonphase disk at a rate so it mimics the earth's moon actual rotation as seen from the nothren hemisphere.
 
 The moonphase disk consists of two moons.
 Earth's moon completes a "rotation" evrey 29.53 days, every 708.12 hours or 2,551,392 seconds.
